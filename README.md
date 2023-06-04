@@ -3,5 +3,5 @@ Source files for creating a modeled strawberry cow in Minecraft!! CURRENTLY A WO
 Summer 2023 around June - I decided I wanted to make a Strawberry/Pink Cow in Minecraft :)  
 Using MCreator, Blockbench, IntelliJ IDEA!!  
 Files:  
-test_cow.java is the basic model of a cow that I am utilizing in Blockbench, imported through the CEM Template Loader Plug-In and converted for Minecraft Java Edition  
+test_cow.java is the basic model of a cow that I am utilizing in Blockbench, imported through the CEM Template Loader Plug-In and converted for Minecraft Java Edition - had to be debugged due to syntax errors when exporting but does work as a model in MCreator as of now!
 
