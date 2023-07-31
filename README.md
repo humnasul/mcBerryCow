@@ -7,4 +7,6 @@ Using MCreator, Blockbench, IntelliJ IDEA!!
 * **current.java** - the most updated / current model of the cow while working on this project
 ### Status Reports:  
 Click the following link for updates I make while working on this project! https://docs.google.com/document/d/1eSo_5hwT-rfjy-huq4JyKFl0PansFJw1zJ8owdV7KSM/edit?usp=sharing
+### Resources (for my reference):
+
 
