@@ -10,4 +10,5 @@ Click the following link for updates I make while working on this project! https
 ### Resources (for my reference):
 * https://sketchfab.com/3d-models/minecraft-cow-a02041b58eb442c7a6a1bf2e031ee30d
 * https://mcreator.net/wiki/mob-ai
+* possibly helpful video: https://www.youtube.com/watch?v=L_PxBhRQ6XY
 
