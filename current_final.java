@@ -3,7 +3,7 @@
 // Paste this class into your mod and generate all required imports
 
 
-public class straw_cow - Converted<T extends Entity> extends EntityModel<T> {
+public class straw_cow<T extends Entity> extends EntityModel<T> {
 	// This layer location should be baked with EntityRendererProvider.Context in the entity renderer and passed into this model's constructor
 	public static final ModelLayerLocation LAYER_LOCATION = new ModelLayerLocation(new ResourceLocation("modid", "straw_cow_- converted"), "main");
 	private final ModelPart head;
@@ -13,7 +13,7 @@ public class straw_cow - Converted<T extends Entity> extends EntityModel<T> {
 	private final ModelPart leg3;
 	private final ModelPart leg4;
 
-	public straw_cow - Converted(ModelPart root) {
+	public straw_cow(ModelPart root) {
 		this.head = root.getChild("head");
 		this.body = root.getChild("body");
 		this.leg1 = root.getChild("leg1");
